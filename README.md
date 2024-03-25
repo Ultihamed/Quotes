@@ -1,6 +1,6 @@
 # Some Good Quotes About Technology
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/Hamed2012-dr)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/Ultihamed)
 
 ## Telegram = [https://t.me/hamedalavi6540](https://t.me/hamedalavi6540)
 
