@@ -5,6 +5,6 @@
 
 ---
 ## Follow me on: [YouTube](https://www.youtube.com/@ultihamed) - [Telegram](https://t.me/ultihamed) - [Instagram](https://www.instagram.com/ultihamed) - [Twitter (X)](https://twitter.com/ultihamed)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCMNk8c1KI4FAa9zDt1q1lsA?style=for-the-badge)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCMNk8c1KI4FAa9zDt1q1lsA?style=for-the-badge)
-![Twitch Status](https://img.shields.io/twitch/status/ultihamed?style=for-the-badge)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCMNk8c1KI4FAa9zDt1q1lsA?style=for-the-badge)](https://youtube.com/@ultihamed)
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCMNk8c1KI4FAa9zDt1q1lsA?style=for-the-badge)](https://youtube.com/@ultihamed)
+[![Twitch Status](https://img.shields.io/twitch/status/ultihamed?style=for-the-badge)](https://twitch.com/ultihamed)
