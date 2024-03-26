@@ -44,3 +44,17 @@
 40. What used to fit in a building, and now fits in your pocket, will fit inside a **blood cell**.  
 41. Since the design of machines is one of these intellectual activities, an **ultra intelligent** machine could design even better machines. There would then unquestionably be an **intelligence explosion**. `Irvin J. Good`  
 42. Waking up the universe, and then intelligently deciding its fate by infusing it with our human intelligence in its nonbiological form, **is our destiny**.
+
+- [x] Introduction
+- [x] Chapter One: Thought Experiments on The World
+- [x] Chapter Two: Thought Experiments on Thinking
+- [x] Chapter Three: A Model of The Neocortex: The Pattern Recognition Theory of Mind
+- [x] Chapter Four: The Biological Neocortex
+- [x] Chapter Five: The Old Brain
+- [x] Chapter Six: Transcendent Abilities
+- [x] Chapter Seven: The Biologically Inspired Digital Neocortex
+- [x] Chapter Eight: The Mind as Computer
+- [x] Chapter Nine: Thought Experiments on The Mind
+- [x] Chapter Ten: The Law of Accelerating Returns Applied to The Brain
+- [x] Chapter Eleven: Objections
+- [x] Epilogue
