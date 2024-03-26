@@ -9,3 +9,23 @@
 6. Time is nature’s way of preventing everything from **happening at once**. `Graffito`  
 7. Innovation is **multiplicative**, not additive.  
 8. I find language **inadequate** for expressing my experience of **redness**.
+
+- [x] **Prologue: An Inexorable Emergence**
+- [ ] **Part One: Probing The Past**
+- [x] Chapter One: The Law of Time and Chaos
+- [x] ‎Chapter Two: The Intelligence of Evolution
+- [ ] Chapter Three: Of Mind and Machines
+- [ ] Chapter Four: A New Form of Intelligence on Earth
+- [ ] Chapter Five: Context and Knowledge
+- [ ] **Part Two: Preparing The Present**
+- [ ] Chapter Six: Building New Brains...
+- [ ] Chapter Seven: ...And Bodies
+- [ ] Chapter Eight: 1999
+- [ ] **Part Three: To Face The Future**
+- [ ] Chapter Nine: 2009
+- [ ] Chapter Ten: 2019
+- [ ] Chapter Eleven: 2029
+- [ ] Chapter Twelve: 2099
+- [ ] **Epilogue:**
+- [ ] Time Line
+- [ ] How to Build an Intelligent Machine in Three Easy Paradigms
